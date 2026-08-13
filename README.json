@@ -1,0 +1,197 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Sponsors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analytics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Automation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Backup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bookmarking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Calendar"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CICD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CMS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communication"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Container"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CRM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Crypting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dashboard"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Diagramming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DNS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Download"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "FileSharing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Finance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gaming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "InfraManagement"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IoT"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "KnowledgeBase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mail"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MediaManagement"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PhotoManagement"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RSS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SocialMedia"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Syncing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Writing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:29.464Z",
+    "original_repository": "AwesomeHomelab/awesome-homelab",
+    "original_repository_sha": "7a0c56f8e192b5e21d80c7430c3664367afb01b2",
+    "enhanced_repository": "enhansome/enhansome-homelab",
+    "enhanced_repository_description": null,
+    "title": "Awesome Homelab with stars"
+  }
+}
